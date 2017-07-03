@@ -1,0 +1,3 @@
+C:\Users\Alainpogi\Documents\Visual Studio 2008\Projects\Voice\Voice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alainpogi\Documents\Visual Studio 2008\Projects\Voice\Voice\obj\Debug\Voice.Resources.resources
+C:\Users\Alainpogi\Documents\Visual Studio 2008\Projects\Voice\Voice\obj\Debug\Voice.vbproj.GenerateResource.Cache
